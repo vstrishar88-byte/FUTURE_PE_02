@@ -1,0 +1,129 @@
+==============================
+UGC AD PROMPT SYSTEM
+Project: AI-Powered UGC Ads for Unisex Salon (Bangalore)
+==============================
+
+
+MASTER PROMPT
+------------------------------
+You are a high-converting UGC ad scriptwriter.
+
+Create short-form UGC ad content for the following business:
+
+Business: Budget-friendly unisex salon in Bangalore
+Target audience: College students and young professionals
+Platform: Instagram Reels / Facebook Ads / YouTube Shorts
+Tone: Natural, relatable, conversational
+
+Generate the following:
+
+1. 5 scroll-stopping hooks (first 3 seconds)
+2. 3 UGC-style ad scripts (20–30 seconds each)
+   - Follow structure: Hook → Problem → Solution → Experience → CTA
+   - Write like a real customer speaking
+   - Keep it casual, not salesy
+3. 5 CTA variations
+4. 2 caption options (short and engaging)
+
+Make sure:
+- It feels like a real user talking
+- No corporate language
+- Use simple English
+- Add emotional triggers (frustration, surprise, relief)
+
+
+==============================
+HOOK GENERATION PROMPT
+------------------------------
+Generate 10 high-converting UGC ad hooks for:
+
+Business: Budget-friendly unisex salon in Bangalore
+Target audience: College students and young professionals
+
+Guidelines:
+- Focus on curiosity, pain points, or surprise
+- Keep it under 10 words if possible
+- Make it sound like a real person speaking
+- Avoid formal or corporate tone
+
+
+==============================
+SCRIPT GENERATION PROMPT
+------------------------------
+Write 5 UGC-style ad scripts (20–30 seconds each) for:
+
+Business: Budget-friendly unisex salon in Bangalore
+Target audience: College students and young professionals
+
+Structure:
+Hook → Problem → Solution → Personal Experience → CTA
+
+Guidelines:
+- Conversational tone
+- First-person storytelling
+- Include emotion (frustration → relief)
+- Keep sentences short and natural
+- Avoid sounding like an advertisement
+
+
+==============================
+CTA GENERATION PROMPT
+------------------------------
+Generate 10 call-to-action (CTA) lines for a UGC ad promoting:
+
+A budget-friendly unisex salon in Bangalore
+
+Guidelines:
+- Keep it short and natural
+- Avoid aggressive sales language
+- Make it feel like a suggestion from a friend
+- Encourage action (visit, try, save, share)
+
+
+==============================
+CAPTION GENERATION PROMPT
+------------------------------
+Generate 5 short captions for Instagram Reels promoting:
+
+A budget-friendly unisex salon in Bangalore
+
+Guidelines:
+- Keep it engaging and relatable
+- Use casual tone
+- Include emojis (optional)
+- Make it scroll-stopping
+
+
+==============================
+VARIATION PROMPT (ADVANCED)
+------------------------------
+Rewrite the same UGC ad script in 3 different tones:
+
+1. Gen Z casual
+2. Emotional storytelling
+3. Minimal & straight-to-point
+
+Keep the message same but change:
+- Style
+- Language
+- Energy
+
+
+==============================
+PLATFORM ADAPTATION PROMPT
+------------------------------
+Adapt the UGC ad script for different platforms:
+
+1. Instagram Reels (fast, engaging)
+2. Facebook Ads (slightly detailed)
+3. YouTube Shorts (attention-grabbing)
+
+Keep core message same but adjust:
+- Hook style
+- Pacing
+- Tone
+
+
+==============================
+END OF FILE
+==============================
